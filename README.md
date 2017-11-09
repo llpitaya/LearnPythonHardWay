@@ -1,0 +1,2 @@
+# LearnPythonHardWay
+exercises
